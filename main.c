@@ -146,6 +146,7 @@ void	main(void)
 		k++;
 	}
 }
+//CC BY-NC 4.0 DEED  
 //本代码受知识共享署名-相同方式共享 4.0 国际许可协议保护。  
 //作者：铈铥铍锝  
-//协议详情：https://creativecommons.org/licenses/by-sa/4.0/
+//协议详情：https://creativecommons.org/licenses/by-nc/4.0/ 
